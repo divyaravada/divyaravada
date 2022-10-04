@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently looking for a Job
  - 🧠 I’m always want to learn something new ✍️
- -  I love coding and develop web pages.
+ - 	🥰 I love coding and develop web pages.
 - 💬 Ask me about <b>React, JavaScript, Node, React Redux </b>
 - 📫 How to reach me: **divya.ravada@gmail.com**
 
