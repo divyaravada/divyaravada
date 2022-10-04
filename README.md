@@ -1,6 +1,6 @@
 # Hi 🙋‍♀️, I'm Veera Divya RAVADA
 
- Full-stack Web & App developer 
+ <b>Full-stack Web & App developer  </b>
  
  
  [![Github](https://img.shields.io/github/followers/divyaravada?label=Follow&style=social)](https://github.com/divyaravada)
